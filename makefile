@@ -3,8 +3,8 @@ RM = rm
 CFLAGS = -std=c18 \
   -lpthread -Wall -Wconversion -Werror -Wextra -Wpedantic -Wwrite-strings \
   -O2
-objects = file.o 
-executable = test
+objects = client.o 
+executable = client
 
 all: $(executable)
 
