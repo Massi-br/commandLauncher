@@ -18,10 +18,7 @@ Command Launcher est un programme qui agit en tant que serveur, exécutant des c
 
    ```bash
    git clone https://github.com/Massi-br/commandLauncher.git
-Bien sûr, voici une base pour un fichier README basé sur ce que j'ai compris de votre programme. Assurez-vous de personnaliser les sections en fonction des détails spécifiques de votre programme et des meilleures pratiques pour la documentation.
-
-markdown
-
+   
 # Command Launcher
 
 Command Launcher est un programme qui agit en tant que serveur, exécutant des commandes fournies par les clients via une file synchronisée. Il utilise le modèle producteur-consommateur pour gérer les commandes de manière asynchrone.
