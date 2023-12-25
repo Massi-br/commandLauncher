@@ -77,6 +77,27 @@ int main(int argc , char *argv[]){
     
 
 
+ // Ouvrir le tube en écriture (pipe_in)
+    int pipe_in_fd = open(c.pipe_in, O_WRONLY);
+    if (pipe_in_fd == -1) {
+        perror("open");
+        exit(EXIT_FAILURE);
+    }
+
+    // Écrire la commande dans le tube pipe_in
+    if (write(pipe_in_fd, &c, sizeof(command)) == -1) {
+        perror("write");
+        close(pipe_in_fd);
+        exit(EXIT_FAILURE);
+    }
+
+
+    if(close(pipe_in_fd)==-1){
+        perror("close");
+        exit(EXIT_FAILURE);
+    }
+
+
 
 
 
