@@ -1,0 +1,362 @@
+[Dec 29 - 14:27:08]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 14:27:08]	Démarrage du lanceur de commande
+[Dec 29 - 14:28:17]	Traitement de la commande : ps 
+[Dec 29 - 15:44:57]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 15:44:57]	Démarrage du lanceur de commande
+shm_open: File exists
+__openfifo
+[Dec 29 - 15:45:53]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 15:50:50]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 29 - 16:00:06]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:00:06]	Démarrage du lanceur de commande
+[Dec 29 - 16:00:11]	Traitement de la commande : ps 
+[Dec 29 - 16:01:03]	Traitement de la commande : ps 
+[Dec 29 - 16:01:31]	Traitement de la commande : ps 
+[Dec 29 - 16:01:44]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:12:58]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 29 - 16:14:27]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:14:27]	Démarrage du lanceur de commande
+[Dec 29 - 16:14:41]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:15:46]	Fermeture du lanceur
+[Dec 29 - 16:16:52]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:16:52]	Démarrage du lanceur de commande
+[Dec 29 - 16:17:06]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:21:31]	Fermeture du lanceur
+[Dec 29 - 16:29:18]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:29:18]	Démarrage du lanceur de commande
+[Dec 29 - 16:29:25]	Traitement de la commande : ps 
+[Dec 29 - 16:31:00]	Traitement de la commande : ps 
+[Dec 29 - 16:31:10]	Traitement de la commande : pwd 
+[Dec 29 - 16:31:36]	Traitement de la commande : ps -a 
+[Dec 29 - 16:31:50]	Traitement de la commande : cat 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:44:34]	Fermeture du lanceur
+[Dec 29 - 16:45:15]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:45:15]	Démarrage du lanceur de commande
+[Dec 29 - 16:45:24]	Traitement de la commande : ps 
+[Dec 29 - 16:48:07]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:48:07]	Démarrage du lanceur de commande
+shm_open: File exists
+__openfifo
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:48:30]	Fermeture du lanceur
+[Dec 29 - 16:48:39]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:48:39]	Démarrage du lanceur de commande
+[Dec 29 - 16:48:42]	Traitement de la commande : ps 
+[Dec 29 - 16:49:03]	Traitement de la commande : cat 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:50:25]	Fermeture du lanceur
+[Dec 29 - 16:50:36]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:50:36]	Démarrage du lanceur de commande
+[Dec 29 - 16:50:39]	Traitement de la commande : ps 
+[Dec 29 - 16:50:50]	Traitement de la commande : cat 
+[Dec 29 - 16:51:29]	Traitement de la commande : cat 
+[Dec 29 - 16:54:57]	Traitement de la commande : ps 
+[Dec 29 - 16:55:13]	Traitement de la commande : pwd 
+[Dec 29 - 16:57:17]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 16:57:58]	Fermeture du lanceur
+[Dec 29 - 16:58:41]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 16:58:41]	Démarrage du lanceur de commande
+[Dec 29 - 16:58:44]	Traitement de la commande : ps 
+[Dec 29 - 16:59:07]	Traitement de la commande : pwd 
+[Dec 29 - 16:59:38]	Traitement de la commande : pwd 
+[Dec 29 - 17:00:44]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:01:58]	Fermeture du lanceur
+[Dec 29 - 17:02:08]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:02:08]	Démarrage du lanceur de commande
+[Dec 29 - 17:02:12]	Traitement de la commande : ps 
+[Dec 29 - 17:02:24]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:02:47]	Fermeture du lanceur
+[Dec 29 - 17:03:28]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:03:28]	Démarrage du lanceur de commande
+[Dec 29 - 17:03:34]	Traitement de la commande : ps 
+[Dec 29 - 17:03:51]	Traitement de la commande : ps 
+[Dec 29 - 17:04:05]	Traitement de la commande : cat 
+[Dec 29 - 17:04:17]	Traitement de la commande : pwd 
+[Dec 29 - 17:04:22]	Traitement de la commande : pwd 
+[Dec 29 - 17:04:34]	Traitement de la commande : ps 
+[Dec 29 - 17:04:52]	Traitement de la commande : ps -aux 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:05:47]	Fermeture du lanceur
+[Dec 29 - 17:10:03]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:10:03]	Démarrage du lanceur de commande
+[Dec 29 - 17:10:15]	Traitement de la commande : ps -aux 
+[Dec 29 - 17:10:53]	Traitement de la commande : ps -aux 
+[Dec 29 - 17:11:26]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:29]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:31]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:33]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:35]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:37]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:38]	Traitement de la commande : pwd 
+[Dec 29 - 17:11:39]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:11:55]	Fermeture du lanceur
+[Dec 29 - 17:33:50]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:33:50]	Démarrage du lanceur de commande
+[Dec 29 - 17:34:07]	Traitement de la commande : pwd 
+[Dec 29 - 17:34:14]	Traitement de la commande : pwd 
+[Dec 29 - 17:34:16]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:35:01]	Fermeture du lanceur
+[Dec 29 - 17:39:44]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:39:44]	Démarrage du lanceur de commande
+[Dec 29 - 17:39:52]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 17:41:17]	Fermeture du lanceur
+[Dec 29 - 17:41:21]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 17:41:21]	Démarrage du lanceur de commande
+[Dec 29 - 17:41:26]	Traitement de la commande : ps 
+[Dec 29 - 18:04:41]	Traitement de la commande : wc 
+[Dec 29 - 18:04:59]	Traitement de la commande : wc ps 
+[Dec 29 - 18:05:07]	Traitement de la commande : wc ps -aux 
+[Dec 29 - 18:05:25]	Traitement de la commande : wc log 
+[Dec 29 - 18:05:38]	Traitement de la commande : wc log 
+[Dec 29 - 18:05:40]	Traitement de la commande : wc log 
+[Dec 29 - 18:05:42]	Traitement de la commande : wc log 
+[Dec 29 - 18:05:44]	Traitement de la commande : wc log 
+[Dec 29 - 18:05:46]	Traitement de la commande : wc log 
+[Dec 29 - 18:07:37]	Traitement de la commande : wc log 
+[Dec 29 - 18:08:06]	Traitement de la commande : wc daemon.c 
+[Dec 29 - 18:08:28]	Traitement de la commande : wc daemon_/daemon.c 
+[Dec 29 - 18:11:15]	Traitement de la commande : wc daemon_/daemon.c 
+[Dec 29 - 18:11:17]	Traitement de la commande : wc daemon_/daemon.c 
+[Dec 29 - 18:12:03]	Traitement de la commande : ps 
+[Dec 29 - 18:12:16]	Traitement de la commande : ps 
+[Dec 29 - 18:12:20]	Traitement de la commande : ps 
+[Dec 29 - 18:12:22]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 18:20:33]	Fermeture du lanceur
+[Dec 29 - 18:23:45]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 18:23:45]	Démarrage du lanceur de commande
+[Dec 29 - 18:23:52]	Traitement de la commande : ps 
+[Dec 29 - 18:28:06]	Traitement de la commande : ps 
+[Dec 29 - 18:28:14]	Traitement de la commande : ps 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 29 - 18:29:00]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 29 - 18:29:29]	Démarrage du lanceur de commande en mode daemon
+[Dec 29 - 18:29:29]	Démarrage du lanceur de commande
+[Dec 29 - 18:29:38]	Traitement de la commande : ps 
+[Dec 29 - 18:31:31]	Traitement de la commande : ps 
+[Dec 29 - 18:31:43]	Traitement de la commande : ps 
+[Dec 30 - 00:31:25]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 00:31:25]	Démarrage du lanceur de commande
+[Dec 30 - 00:32:50]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 00:34:41]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 00:42:51]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 00:42:51]	Démarrage du lanceur de commande
+[Dec 30 - 00:42:59]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 00:51:15]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 00:51:58]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 00:51:58]	Démarrage du lanceur de commande
+[Dec 30 - 00:52:09]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:00:09]	Fermeture du lanceur
+[Dec 30 - 01:01:56]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:01:56]	Démarrage du lanceur de commande
+[Dec 30 - 01:02:03]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:04:09]	Fermeture du lanceur
+[Dec 30 - 01:04:20]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:04:20]	Démarrage du lanceur de commande
+[Dec 30 - 01:04:28]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 01:09:33]	Fermeture du lanceur
+[Dec 30 - 01:11:17]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:11:17]	Démarrage du lanceur de commande
+[Dec 30 - 01:11:22]	Traitement de la commande : pwd 
+[Dec 30 - 01:13:14]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:13:14]	Démarrage du lanceur de commande
+shm_open: File exists
+__openfifo
+[Dec 30 - 01:13:18]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:21:02]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 01:21:17]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:21:17]	Démarrage du lanceur de commande
+[Dec 30 - 01:21:41]	Traitement de la commande : whoiam 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:26:19]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 01:26:25]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:26:25]	Démarrage du lanceur de commande
+[Dec 30 - 01:26:34]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:27:26]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 01:35:50]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:35:50]	Démarrage du lanceur de commande
+[Dec 30 - 01:35:55]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:36:28]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 01:57:43]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 01:57:43]	Démarrage du lanceur de commande
+[Dec 30 - 01:57:49]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 01:59:42]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 02:11:05]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 02:11:05]	Démarrage du lanceur de commande
+[Dec 30 - 02:11:27]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 02:12:13]	Fermeture du lanceur
+[Dec 30 - 02:21:02]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 02:21:02]	Démarrage du lanceur de commande
+[Dec 30 - 02:21:10]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 02:35:19]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 02:35:47]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 02:35:47]	Démarrage du lanceur de commande
+[Dec 30 - 02:35:53]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 02:42:17]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 02:43:06]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 02:43:06]	Démarrage du lanceur de commande
+[Dec 30 - 02:43:14]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 02:52:50]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
+[Dec 30 - 02:53:04]	Démarrage du lanceur de commande en mode daemon
+[Dec 30 - 02:53:04]	Démarrage du lanceur de commande
+[Dec 30 - 02:53:09]	Traitement de la commande : pwd 
+Lanceur interrompu par un signal 15
+sem_error: Interrupted system call
+__defiler
+[Dec 30 - 02:54:13]	Fermeture du lanceur
+Lanceur interrompu par un signal 15
+open: Interrupted system call
+__redirect pipe_err
